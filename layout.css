@@ -1,0 +1,59 @@
+.wrapper {
+	position: relative;
+	width: 1080px;
+	height: 720px;
+  	left: 0;
+  	right: 0;
+  	margin: auto;
+  	margin-top: 50px;
+}
+
+#menu {
+	position: absolute;	
+	text-align: center;
+  	top: 0;
+  	left: 0;
+  	bottom: 0;
+  	right: 0;
+  	margin: auto;
+  	background-color: #191919;
+  	width: 300px;
+  	height: 400px;
+  	border-radius: 25px;
+  	border: 2px solid black;
+  	display: none;
+  	opacity: 0.9;
+}
+
+#menu p {
+	color: white;
+  	font-size: 40px;
+  	user-select: none;
+  	margin-top: 20px;
+  	margin-bottom: 0;
+}
+
+#menu small {
+	color: white;
+  	font-size: 20px;
+  	user-select: none;
+  	margin-top: 5px;
+  	margin-bottom: 0;
+}
+
+#menu button {
+	width: 250px;
+	height: 50px;
+	border-radius: 15px;
+	border-style: 5px solid white;
+	background-color: lightgray;
+	margin-top: 20px;
+	opacity: 0.9;
+	font-size: 30px;
+	cursor: pointer;
+}
+
+body {
+	margin: 0; 
+	overflow: hidden
+}
