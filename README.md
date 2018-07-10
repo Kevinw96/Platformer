@@ -1,2 +1,0 @@
-# Platformer
-Platforming game
