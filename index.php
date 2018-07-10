@@ -5,8 +5,8 @@
   <meta charset="utf-8">
   <title>Platformer</title>
   <link rel="stylesheet" type="text/css" href="CSS/layout.css">
-  <script src="Scripts/jquery-1.12.4.js"></script>
-  <script src="Scripts/game.js"></script>
+  <script src="jquery-1.12.4.js"></script>
+  <script src="game.js"></script>
 
 
 </head>
